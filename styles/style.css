@@ -1,7 +1,11 @@
-p, li, h1 {
+p, h1 {
     width: 500px;
     margin: 0 auto;
     text-align: center;
+}
+
+l1 {
+    margin: 0 auto;
 }
 
 body {
