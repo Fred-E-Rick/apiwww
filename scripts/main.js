@@ -1,9 +1,9 @@
 document.addEventListener('keydown', function(event) {
     if(event.keyCode == 70) {
-        window.location.href = "http://fred-e-rick.tk/f";
+        window.location.href = "../f";
     } 
     if(event.keyCode != 70) {
-        window.location.href = "https://fred-e-rick.tk/not-f";
+        window.location.href = "../not-f";
     }
     
 });
